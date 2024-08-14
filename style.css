@@ -4,7 +4,7 @@
 }
 
 .cabeçalho {
-    background-color: #000000;
+background-color:#7b7dd1 ;
     color: #ffffff;
     display: flex;
     justify-content: space-around;
@@ -28,7 +28,7 @@ justify-content: center;
 }
 
 .download-jpeg{
-width: 10%;
+width: 5%;
 
 }
 .BzVene {
@@ -45,7 +45,7 @@ color: #ffffff;
 }
 .BzVene {
 background-image: linear-gradient(#eb85da, #ebc681);
-color: #ffffff;
+color: #3edfa128;
 
 }
 .cabeçalho-imagemb {
@@ -59,3 +59,7 @@ display: flex;
 .cabeçalho-item {
     padding: 0% 20px;
 }
+
+.imagmaauroraboreal{
+    width: 20%;
+}   
