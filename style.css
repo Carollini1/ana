@@ -19,7 +19,7 @@ display: flex;
 }
 
 .pergunta {
-background-image: linear-gradient(#ff00008e, #3ebadf59);
+background-image: linear-gradient(#00e1ff73, #3ebadf59);
 padding: 20mm;
 color: #ffffff;
 display: flex;
@@ -44,7 +44,7 @@ color: #ffffff;
 
 }
 .BzVene {
-background-image: linear-gradient(#eb85da, #ebc681);
+background-image: linear-gradient(#eb85da, #6eecfd);
 color: #3edfa128;
 
 }
