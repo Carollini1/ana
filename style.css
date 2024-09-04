@@ -20,7 +20,7 @@ display: flex;
 
 .pergunta {
 background-image: linear-gradient(#00e1ff73, #3ebadf59);
-padding: 20mm;
+padding: 20px;
 color: #ffffff;
 display: flex;
 justify-content: center;
@@ -63,3 +63,8 @@ display: flex;
 .imagmaauroraboreal{
     width: 20%;
 }   
+
+
+.rodepe{
+    background-color: black;
+}
